@@ -1,3 +1,4 @@
+package testCase;
 // This file could be our application interface
 
 import javax.swing.JButton;

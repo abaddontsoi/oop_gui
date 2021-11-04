@@ -1,3 +1,4 @@
+package testCase;
 
 public class GUI_split_test{
 
